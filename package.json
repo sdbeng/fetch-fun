@@ -1,0 +1,21 @@
+{
+  "name": "fetch-fun",
+  "version": "1.0.0",
+  "description": "Having a fun time learning and fetching data with nodejs",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdbeng/fetch-fun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdbeng/fetch-fun/issues"
+  },
+  "homepage": "https://github.com/sdbeng/fetch-fun#readme"
+}
